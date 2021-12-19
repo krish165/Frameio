@@ -1,0 +1,26 @@
+h1{
+    color:limegreen;
+    font-size: 45px;
+    font-family: cursive;
+    font-weight: bolder;
+}
+button
+{
+    color:red !important;
+    font-family: cursive ;
+    font-size: 28px !important;
+    
+}
+
+body
+{
+    background-image: url("https://i.pinimg.com/736x/f4/3e/cb/f43ecbe9c7a5de58c78ef08dd1248d7b.jpg");
+    background-position: center;
+    background-size:cover;
+
+}
+canvas{
+    border-radius: 5px;
+    border-width: 10px;
+    border-style: groove;
+}
